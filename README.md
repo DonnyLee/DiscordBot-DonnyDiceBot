@@ -26,4 +26,6 @@ You can lookup for spell and creature. RPG-Players or any one in the chat room c
 
 I had to program this in few days so did not very thoughful printing reaction in english, german was used instead in most case.
 
+You can run this in locally or run it in Raspi all day.
 
+**Donny Lee (Dongmin Lee)**
