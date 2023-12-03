@@ -1,0 +1,193 @@
+{
+"Kelpie": {
+"description": "Zähmbarer Unterwasser-Dämon aus Schottland. Vorderteil eines Pferdes, Hinterteil eines Fisches. Schweif und Mähne galten lange als minderwertiger Zauberstabkern, bis jemand feststellte, dass die Haare von gezähmten und gefütterten einst wilden Kelpies (nicht gezüchteten!) großartige magische Eigenschaften haben. Sorgt für loyale, handliche und stolze Zauberstäbe, die sich auch für spontane Zauber gut eignen."
+},
+
+"Schlange": {
+"description": "Magisches Tier, dass in Europa leider oft mit schwarzer Magie in Verbindung gebracht wird. Fast alle Teile können für Zaubertränke eingesetzt werden. Alter und Gesundheitszustand hängen von ihrem Besitzer ab."
+},
+
+"Kaninchen": {
+"description": "Weiße Kaninchen werden oft als Begleiter von lebhaften, auf Effektzauberei spezialisierten Zauberern gewählt. Ihr genaues Alter kann niemand einschätzen, da sie sich ziemlich schnell vermehren und alle gleich aussehen."
+},
+
+"Kröte": {
+"description": "Werden sehr lange schon als Begleiter von traditionellen und heilenden Hexen und Zauberern gewählt. Ihr Speichel ist Zutat in vielen Zaubertränken. Sie leben zwischen 20 und 30 Jahren."
+},
+
+"Ratte": {
+"description": "Magische Ratten sind intelligente, treue magische Haustiere. Sie werden 15-20 Jahre alt ."
+},
+
+"Eule": {
+"description": "Magisch begabte Eulen bringen nicht nur die Post, deren Empfänger sie auf irgend eine Weise immer zu finden scheinen. Sie verstehen menschliche Sprache und sind bei guter Pflege liebevolle Haustiere bis an ihr Lebensende."
+},
+
+"Minimuff": {
+"description": "Von Fred&George Weasley gezüchtete rosa- und lilafarbene Knuddelmuffs. Siehe Knuddelmuff."
+},
+
+"Knuddelmuff": {
+"description": "Kleines summendes, fliegendes, beige-braunes, sehr flauschiges Haustier. Ernährt mit Hilfe seiner langen Zunge hauptsächlich von Müll und Popeln. Sehr beliebt bei Kindern. Von den Weasleys gezüchtete Variante siehe Minimuff."
+},
+
+"Kniesel": {
+"description": "Katzenähnliches Lebewesen. Magiebegabt, außerdem größer und intelligenter als gewöhnliche Hauskatzen. Kann mit Katzen gekreuzt werden, um sehr verträgliche Halb-Kniesel zu züchten. Nicht zu Belügen und spürt magischen Einfluss auf. Schnurrhaare des Kniesel können als loyaler Zauberstabkern verwendet werden und sorgen für die sichere und problemlose Umsetzung auch von komplexen, verborgenen Zaubern."
+},
+
+"Halb-Kniesel": {
+"description": "Verträgliches, magisches Haustier, entstanden aus der Kreuzung aus Katze und Kniesel. Liebevoll, verspielt, treu, intelligent und schwer zu Belügen. Spürt magischen Einfluss auf."
+},
+
+"Abraxaner": {
+"description": "Blau geflügeltes Palomino-Pferd, sehr groß und kräftig. Hat rote Augen und sehr spezielle Nahrungsvorlieben (Single Malt Whiskey, Erdbeeren mit Schlagsahne, etc.)."
+},
+
+"Acromantula": {
+"description": "Riesige, intelligente Spinne, die alles was kleiner ist als Nahrung ansieht. Bis zu drei Meter lange Beine, können reden. Ihr Gift ist eine mächtige, teure und seltene Zaubertrankzutat. Aufgrund ihrer vielen Augen Erzfeind des Basilisken."
+},
+
+"Basilisk": {
+"description": "Riesige, meist schwarzmagische Schlange, die entsteht, wenn eine magische Kröte ein Hühnerei ausbrütet. Bis zu 17 Meter lang, Alter unbekannt. Sterben durch Hahnenkrähen. Der Blick in ihre Augen lässt Lebewesen und sterben, bei indirektem Blick erstarren. Das Gift ihrer Zähne tötet schnell und erbarmungslos. Bisse können durch Phönixtränen geheilt werden. Angeblich hatte der Zauberstab von Salazar Slytherin als Kern das Horn eines Basilisken."
+},
+
+"Drache": {
+"description": "Auf der ganzen Welt vorkommende, meist schuppiges riesiges Wesen. Einige können fliegen oder Feuer speien; alle sind gefährlich. Ihre Körperteile werden für Zaubertränke, Zauberstäbe oder Spezialkleidung eingesetzt. Handel mit Dracheneiern ist streng untersagt. Zauberstabkerne aus Drachenherzfaser sorgen für mächtige, extravagante Zauberstäbe die schnell lernen und sich an den von ihnen gewählten Besitzer binden."
+},
+
+"Einhorn": {
+"description": "Scheues, sehr sanftes magisches Wesen. Fohlen werden golden geboren, ausgewachsene Tiere sind hellweiß und tragen ein horn auf der Stirn. Hörner und Schweifhaare werden für Zauberstäbe und Zaubertränke verwendet. Zauberstabkerne aus Einhornhaar sind beständig und nicht geeignet für schwarze Magie, dafür sehr gelehrig und verlässich. Das Blut des Einhorns kann auf schwarzmagische Weise Leben verlängern, verflucht gleichzeitig den Konsumenten."
+},
+
+"Grindeloh": {
+"description": "Kleiner zäher Wasserdämon, meist grünlich, bläulich oder bräunlich. Hat spitze Zähne, Hörner und Glubschaugen."
+},
+
+"Hippogreif": {
+"description": "Stolzes Tier, Vorderteil und Flügel des Adlers, Hinterteil des Pferds. Loyalität kann durch Fütterung (Fleischfresser) und Verbeugen ohne Abbruch des Augenkontakts sowie Lobpreisung gewonnen werden. Zauberstäbe mit Hippogreifenfedern sind bei richtigem Einsatz stark, unerbittlich und loyal gegenüber dem Zauberer, der sich ihren Respekt verdient. "
+},
+
+"Irrwicht": {
+"description": "Gestaltwandler, der sich an dunklen Orten niederlässt und bei Sichtkontakt die Gestalt von dem annimmt, wovor sich der Sehende fürchtet. Prominente Beispiele: Spinnen und Banshees. Kann mit dem Riddikulus Zauber gebannt werden."
+},
+
+"Phönix": {
+"description": "Magischer rotgoldener Feuervogel. Wird bei Tod immer wieder aus der Asche geboren. Dient und hilft demjenigen, der ihn gut behandelt und dem Besitzer loyal ist. Tränen heilen Verletzungen und Vergiftungen. Können auch im Flug schwere Lasten tragen (allerdings nur freiwillig). Zauberstabkerne aus Phönixfedern sind eigenwillig, schwer zu bändigen und achten gut darauf, welchen Besitzer sie wählen, es können alle Schulen der Magie zuverlässig und elegant mit ihnen ausgeführt werden."
+},
+
+"Thestral": {
+"description": "Großes, schwarzes, geflügeltes Pferd mit ledriger Haut und fledermausartigen Flügeln. Können nur von fähigen Zauberern gezähmt werden, fressen ausschließlich Fleisch. Nur wer den Tod eines Menschen gesehen hat, kann sie sehen. Horn wird sehr, sehr selten und nur in Ausnahmesituationen für Zauberstäbe verwendet (Beispiel: Mythos Elderstab)."
+},
+
+"Erumpent": {
+"description": "Nashornähnliches großes Wesen mit explosivem Horn. Handel streng untersagt."
+},
+
+"Bowtruckle": {
+"description": "Astähnliches Lebewesen, das in Bäumen lebt. Kratzt jedem, der dem Baum zu Nahe kommt, die Augen aus, wenn es nicht gezähmt wird."
+},
+
+"Niffler": {
+"description": "An sich harmlose, maulwurfsähnliche Kreatur mit Schnabel. Zutraulich, flauschig und stürzt sich auf alles was goldfarben ist und wertvoll aussieht."
+},
+
+"Jarvey": {
+"description": "Sieht aus wie ein übergroßes Frettchen, kommt in Britannien, Irland und Nordamerika vor. Schwanzhaare werden für beeindruckende Zauberstäbe eingesetzt, dir vor allem bei klassischer Zauberkunst punkten. Kann in menschlicher Sprache fluchen und ernährt sich von kleinen Nagern, außerdem Gnomen. Wild, eigensinnig, aber auch ein verspielter und lustiger Gefährte."
+},
+
+"Streeler": {
+"description": "Riesenschnecke, die stündlich ihre Farbe ändert und eine giftige Schleimspur hinterlässt. Gift kann für Tränke eingesetzt werden, die Innenseite der Schale liefert wertvolles Perlmutt, das als Kern für präzise und leistungsfähige Zauberstäbe verwendet wird, die dem Besitzer nach Eingewöhnung in jeder Lage nutzen."
+},
+
+"Sirene": {
+"description": "In unterschiedlicher Form vorkommendes magisches Wasserwesen, meistens Mischung aus Frau(Oberkörper) und Fisch. Gehört zu den Meermenschen. Der Gesang kann betören, einige Sirenen ernähren sich von Menschenfleisch oder verwirren Menschen zum Zeitvertreib. Als Zauberstabkern sorgt Sirenenhaar für wendige und eigenwillige Zauberstäbe, die zuverlässig auch komplizierte Zauber einfach von der Hand gehen lassen."
+},
+
+"Leprechaun": {
+"description": "Kleines feenartiges Wesen mit menschlicher Gestalt, bis zu 40cm groß und beheimatet in Irland. Trägt meistens grün und spielt gerne harmlose Streiche. Kann goldähnliche Münzen erzeugen, die jedoch nach ein paar Stunden wieder verschwinden. Maskottchen von Quidditch-Mannschaften und Zauberclubs."
+},
+
+"Veela": {
+"description": "Nicht-menschliches Zauberwesen mit der Biologie einer extrem schönen, menschlichen cis-Frau mit silbernem Haar. Sorgen bei Frauen attraktiv findenden Menschen für Verwirrung, Angeberei und Tagträume. Kann von Menschen Kinder bekommen. Bei Provokation werden Veelas gefährlich, entstellt und ändern ihre Gestalt: sie bekommen Flügel, Schnäbel, Krallen und verzerrte Gesichtszüge. Ihre Haare werden nur in Ausnahmefällen für stolze und eigenwillige Zauberstäbe verwendet, die zu extrem filigranen und ästhetischen Zaubern fähig sind."
+},
+
+"Doxy": {
+"description": "'Beißfee', die eigentlich mit den Käfern verwandt ist. Kleine menschliche Gestalt mit schwarzem Fell, je zwei Paaren Arme, Beinen und schwarz glänzenden lilafarbenen Flügeln. Körperteile können für Tränke verwendet werden; Biss ist giftig."
+},
+
+"Billywig": {
+"description": "Aus Australien stammende lila-blaue Stechmücke, die rasend schnell mit Hilfe eines Propellers auf dem Kopf fliegt. Übermütige Jugendliche provozieren den Stich der Mücke, um Rauschzustände zu erlangen."
+},
+
+"Erkling": {
+"description": "Deutscher Walddämon aus dem Schwarzwald mit spitzem Gesicht und gackerndem Lachen. Bis zu einem Meter groß. Gefährlich für Kinder, lockt diese an und frisst sie."
+},
+
+"Chimäre": {
+"description": "Seltenes griechisches Monster mit Löwenkopf, Ziegenleib und Drachenschwanz. Heimtückisch, blutrünstig, gefährlich. Der Handel von Chimäreneiern wird mit Azkaban bestraft."
+},
+
+"Wichtel": {
+"description": "Blaues Feenwesen aus dem Cornwall das in Gruppen lebt und bis zu 20cm groß wird. Boshaft und spielt gerne Streiche."
+},
+
+"Feuerkrabbe": {
+"description": "Einer großen Schildkröte mit juwelenbesetzten Panzer ähnelndes Wesen von den Fidschi-Inseln. Schießt bei Gefahr Feuer aus einem Stachel am Hinterteil."
+},
+
+"Flubberwurm": {
+"description": "Dicker, langer, wabbeliger Wurm der nur Gemüse isst und zur Verdickung von Zaubertränken verwendet wird."
+},
+
+"Ghul": {
+"description": "Hässliches, ungefährliches Geschöpf, das haarig und/oder schleimig ist und in Kellern sowie in Dachstühlen wohnt."
+},
+
+"Riesentintenfisch": {
+"description": "In einigen tiefen Gewässern lebender Tintenfisch, der mehrere dutzend Meter groß wird. Freundlich wenn unprovoziert."
+},
+
+"Gnom": {
+"description": "Kartoffelähnliches Gartenlebewesen. Ungefährlich, kann aber lästig werden und durch Verwirrungswürfe aus dem Garten vertrieben werden."
+},
+
+"Kappa": {
+"description": "Japanischer Wasserdämon, der sich als Pflanze tarnt und in flachen Gewässern wie Tümpeln und Bächen lebt. Affenähnlich, mit Schuppen. Der Kappa ernährt sich von menschlichem Blut, kann jedoch dazu veranlasst werden, der bedrohten Person nichts anzutun, wenn man ihm eine Gurke zuwirft, in die der Name dieser Person eingeritzt ist. Wenn es hart auf hartkommt, sollte der bedrohte Zauberer den Kappa dazu verleiten, sich zu bücken — dann fließt das Wasser aus der Höhlung seines Kopfes und das beraubt ihn all seiner Kräfte."
+},
+
+"Knarl": {
+"description": "Kleine Tiere, die von Muggeln oft für Igel gehalten werden. Wenn man ihn füttern möchte, denkt er man lockt ihn in eine Falle... und verwüstet den Garten."
+},
+
+"Occamy": {
+"description": "Wunderschöne, bunte Wesen in der Gestalt einer Schlange mit Vogelkopf und Flügeln. Können in jedem beliebigen Raum Platz finden. Werden gefährlich, wenn man ihr Nest bedroht. Eier sind aus Silber; Handel ist untersagt."
+},
+
+"Murtlap": {
+"description": "DRattenartiges Meereswesen aus den Küstengebieten Britanniens. Gewächs auf dem Rücken sieht aus wie Seeanemone, kann sauer eingelegt und verspeist zur Stärkung der Widerstandskraft gegen Flüche und böswillige Zauberei nutzen. Ernährt sich hauptsächlich von Krustentieren. Murtlap-Essenz hilft gut bei Schnitten und Abschürfungen.."
+},
+
+"Mondkalb": {
+"description": "Blassgraues und scheues Zauberwesen mit glattem Körper, hervortretenden runde Augen auf der Oberseite des Kopfes und vier sehr dünnen Beinen mit gewaltigen Plattfüßen. Ungefährlich, Mist kann als Dünger verwendet werden."
+},
+
+"Sphinx": {
+"description": "Hat einen Menschenkopf und einen Löwenkörper. Schon seit über tausend Jahren wird sie von Hexen und Zauberern eingesetzt, um Wertsachen und geheime Zufluchtsorte zu schützen. Die äußerst kluge Sphinx ergeht sich gern in Rätseln und Ratesprüchen. ."
+},
+
+"Dementor": {
+"description": "Gefährliches, grausames, fast ausgerottetes Zauberwesen mit menschlicher Gestalt aber ohne Gefühle, dass zur Bewachung von Schwerverbrechern eingesetzt wird. 3m groß, Grau-schwarz mit Kapuze. Keine Augen, statt des Mundes einen Schlot über den die Gefühle ausgesaugt werden können. Verbreitet Düsternis, Kälte, Hoffnungslosigkeit und kann nur mit dem Patronus-Zauber vertrieben werden. Nimmt nicht die Gefühle und Anwesenheit von Tieren wahr."
+},
+
+"Wyvern": {
+"description": "Drachenähnliches Geschöpf, aber kleiner, scheuer und mit Flügeln statt Vorderbeinen."
+},
+
+"Yeti": {
+"description": "Vermutlich mit den Trollen verwandtes großes, starkes, extrem scheues Schneewesen, in Tibet beheimatet."
+},
+
+"Troll": {
+"description": "Gefährliche, sehr starke und dumme Kreatur, bis zu vier Meter groß, in Norddeutschland beheimatet. Spricht eine primitive Sprache, kann mit viel Geduld als Wächter eingesetzt werden."
+}
+}
